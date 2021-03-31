@@ -12,15 +12,22 @@ Linux:
 - To install  nodejs in linux please follow these steps:
     1.- Open your terminal or press Ctrl + Alt + T.
     2.- To install node.js use the following command:
+    
         sudo apt install nodejs
+        
     3.- Once installed, verify it by checking the installed version using the following command:
+    
         node -v 
 
     Note: It is recommended to install Node Package Manager(NPM) with Node.js. NPM is an open source library of Node.js packages.
     To install NPM, use the following commands:
-
+    
     sudo apt install npm
-    npm -v      --> To verified the installed version
+    
+    
+    --> To verified the installed version
+    
+    npm -v    
 
 If you face any issue installing the packages on linux please execute first the following commands in the terminal
 
