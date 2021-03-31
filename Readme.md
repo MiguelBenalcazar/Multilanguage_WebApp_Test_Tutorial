@@ -40,7 +40,7 @@ If face any inconvenience you can follow the steps from the following web page
 Run the server:
    Open Terminal Ctrl + T
    execute 
-   ```
+   ```console
    $ node index.js 
    
    ```
