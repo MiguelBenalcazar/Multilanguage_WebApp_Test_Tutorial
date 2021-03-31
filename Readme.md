@@ -13,32 +13,39 @@ Linux:
     1.- Open your terminal or press Ctrl + Alt + T.
     2.- To install node.js use the following command:
     
-        sudo apt install nodejs
+        $ sudo apt install nodejs
         
     3.- Once installed, verify it by checking the installed version using the following command:
     
-        node -v 
+        $ node -v 
 
     Note: It is recommended to install Node Package Manager(NPM) with Node.js. NPM is an open source library of Node.js packages.
     To install NPM, use the following commands:
     
-    sudo apt install npm
+    $ sudo apt install npm
     
     
     --> To verified the installed version
     
-    npm -v    
+    $ npm -v    
 
 If you face any issue installing the packages on linux please execute first the following commands in the terminal
-
-    sudo apt-get update
-    sudo apt-get upgrade
+```
+    $ sudo apt-get update
+    $ sudo apt-get upgrade
+   ```
 
 If face any inconvenience you can follow the steps from the following web page
 
 Run the server:
    Open Terminal Ctrl + T
-   execute node index.js --> You can also install nodemon to execute the server
+   execute 
+   ```
+   $ node index.js 
+   
+   ```
+   --> You can also install nodemon to execute the server
+   $ nodemon index.js
    
    Open your browser 
    http://localhost::8081/en or http://localhost::8081/es
