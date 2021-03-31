@@ -1,0 +1,27 @@
+{
+  "name": "multilingual_nodejs_test",
+  "version": "1.0.0",
+  "description": "Testing basic way to create a multilingual Wep API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "MiguelBenalcazar@github.com"
+  },
+  "keywords": [
+    "multilingual",
+    "nodejs",
+    "multilingual",
+    "web",
+    "api",
+    "test"
+  ],
+  "author": "Miguel Benalcazar",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.1.6",
+    "nodemon": "^2.0.7"
+  }
+}

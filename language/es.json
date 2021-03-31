@@ -1,0 +1,14 @@
+{
+  "pricing_table": "Tabla de Precios",
+  "basic": "Basico",
+  "pro": "Profesional",
+  "premium": "Premium",
+  "storage": "Alamacenamiento",
+  "email": "Emails",
+  "domain": "Dominios",
+  "sign_up": "Suscribirse",
+  "cost_basic": "$ 10",
+  "cost_pro": "$ 25",
+  "cost_premium": "$ 50",
+  "per_month": "mensual"
+}
